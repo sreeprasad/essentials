@@ -27,7 +27,7 @@
 - [Checklist Gimran](https://docs.google.com/spreadsheets/d/10rMUMc0u_YAuWMFnxHF6dgyrR3NyiNVF-dl3tkFkFpM/edit?gid=0#gid=0)
 - [panvel lectures](https://www.youtube.com/channel/UC9WDkCyUlNTncq1Y-mFSgLQ)
 
-- [Tutorial] Supporting Queue-like Undoing on DS](https://codeforces.com/blog/entry/83467)
+- [Tutorial Supporting Queue-like Undoing on DS](https://codeforces.com/blog/entry/83467)
 - [Convex Optimization for CP, Part 2](https://codeforces.com/blog/entry/111048)
 - [Convex Optimization for CP, Part 1](https://codeforces.com/blog/entry/111039)
 - [CDQ convolution (online FFT) generalization with Newton method](https://codeforces.com/blog/entry/111399)
