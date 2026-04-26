@@ -17,13 +17,13 @@
 - [DP](https://codeforces.com/blog/entry/43256)
 - [Dynamic Programming Optimizations](https://codeforces.com/blog/entry/8219)
 - [Tutorial: Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
-- [[Tutorial] Generating Functions in Competitive Programming](https://codeforces.com/blog/entry/77468)
+- [Tutorial Generating Functions in Competitive Programming](https://codeforces.com/blog/entry/77468)
 - 
 
 - [adamant's blog on problems](https://codeforces.com/blog/entry/48417)
 - [Diameter of tree and applications](https://codeforces.com/blog/entry/101271)
-- [Tutorial] Schieber & Vishkin LCA Algorithm](https://codeforces.com/blog/entry/153134)
-- [Tutorial] Collection of little techniques](https://codeforces.com/blog/entry/100910)
+- [Tutorial Schieber & Vishkin LCA Algorithm](https://codeforces.com/blog/entry/153134)
+- [Tutorial Collection of little techniques](https://codeforces.com/blog/entry/100910)
 - [Checklist Gimran](https://docs.google.com/spreadsheets/d/10rMUMc0u_YAuWMFnxHF6dgyrR3NyiNVF-dl3tkFkFpM/edit?gid=0#gid=0)
 - [panvel lectures](https://www.youtube.com/channel/UC9WDkCyUlNTncq1Y-mFSgLQ)
 
